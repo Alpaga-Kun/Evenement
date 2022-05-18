@@ -24,4 +24,6 @@ Communiquer sur les participants et faire valoir leurs compétences; susciter de
 Depuis maintenant 5 ans, à La Réunion, mais aussi sur chacune des îles participantes, la compétition a permis à de nombreuses personnes de trouver un emploi, de travailler sur des projets communs avec d’autres participants, et de favoriser les échanges économiques entres les îles de l’Océan Indien.
 
 # Aspect Personnel
-J'ai eu l'ocassion, pour la première fois, de participer à la Webcup 2022. J'étais une équipe **SOLO** et ce fut une agréable expérience. Malgré les difficultés engendrés, j'ai pu produire quelques choses de bien. Malheureusement, due à un petit manque d'organisation, cela m'a couté plus de temps que je l'avais espéré. Mais je suis très content de mon produit. J'espère plus tard y reparticiper et ainsi, grâce à mes erreurs, faire mieux!
+J'ai eu l'ocassion, pour la première fois, de participer à la Webcup 2022. J'étais une équipe **SOLO** et ce fut une agréable expérience. Malgré les difficultés engendrés, j'ai pu produire quelques choses de bien. Malheureusement, due à un petit manque d'organisation, cela m'a couté plus de temps que je l'avais espéré. Mais je suis très content de mon produit. J'espère plus tard y reparticiper et ainsi, grâce à mes erreurs, faire mieux!<br/>
+
+Il s'agit d'un site réalisé en HTML/CSS
